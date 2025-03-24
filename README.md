@@ -34,6 +34,6 @@ We welcome contributions! Please fork the repository and submit a pull request f
 This project is licensed under the MIT License. Feel free to use and modify it as you wish!
 
 ## 📞 Contact Information
-For inquiries, please reach out to [your-email@example.com]. We are here to help you with any questions or support you may need.
+For inquiries, please reach out to [sherawat003@gmail.com]. We are here to help you with any questions or support you may need.
 
 Feel free to explore and enjoy the world of movies! 🎥🍿
